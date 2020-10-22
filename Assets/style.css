@@ -3,15 +3,22 @@
     padding: 0;
     margin: 0;
 }
-body {
-    background-image: url("./Images/profile_cropped.png") !important;
+
+.container {
+    background-color: whitesmoke;
+    
+
+}
+
+
+.portimage{
+    margin-top: 24px;
+    vertical-align: middle;
+    width: 100%;
+    padding: 0px;
     
 }
-/*
- img {
-    width: 350px;
-    height: 350px;
 
-}
 
-*/
+
+
