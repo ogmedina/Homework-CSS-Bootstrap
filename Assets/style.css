@@ -4,12 +4,14 @@
     margin: 0;
 }
 
-.container {
+/* .container {
     background-color: whitesmoke;
-    
-
 }
+*/
 
+.containerbackground{
+    background-color: whitesmoke;
+}
 
 .portimage{
     margin-top: 24px;
