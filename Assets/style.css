@@ -4,11 +4,6 @@
     margin: 0;
 }
 
-/* .container {
-    background-color: whitesmoke;
-}
-*/
-
 .containerbackground{
     background-color: whitesmoke;
 }
@@ -17,8 +12,7 @@
     margin-top: 24px;
     vertical-align: middle;
     width: 100%;
-    padding: 0px;
-    
+    padding: 0px;    
 }
 
 
